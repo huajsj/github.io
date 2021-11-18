@@ -35,5 +35,6 @@ GEMM would get provided in a **single variable** data, there also have a paramet
 ### OpenMP
 Once OpenMP supported ,the said thread local logic not aplly annymore, this part is a TODO part.
 
+### Affinity and runtime.config_threadpool
 
 
